@@ -55,7 +55,7 @@ class TextEditor:
     def run(self):
         self.root.mainloop()
 
-# Entry point of the program
+
 if __name__ == "__main__":
     # Create a root window using tk.Tk()
     root = tk.Tk()
